@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chris-cho/todo_list_LHL_Midterms/issues"
   },
-  "homepage": "https://github.com/chris-cho/todo_list_LHL_Midterms#readme"
+  "homepage": "https://github.com/chris-cho/todo_list_LHL_Midterms#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
